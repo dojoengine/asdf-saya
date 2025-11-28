@@ -21,4 +21,4 @@ jobs:
         with:
           command: saya --version
           gitref: main
-          version: v0.1.2
+          version: 0.1.2
